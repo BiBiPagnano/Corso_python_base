@@ -6,9 +6,6 @@ DigiGreen Manufacturing base (48 h) – GP5
 ## Programma del corso:
 - [Corso\_python\_base](#corso_python_base)
   - [Programma del corso:](#programma-del-corso)
-    - [Tipi di dato semplici](#tipi-di-dato-semplici)
-    - [Cicli Interattivi e Iterativi](#cicli-interattivi-e-iterativi)
-      - [Fuori tema](#fuori-tema)
     - [Funzioni, moduli e oggetti](#funzioni-moduli-e-oggetti)
     - [Strutture dati: list, tuple, set, dictionary](#strutture-dati-list-tuple-set-dictionary)
     - [Gestione delle stringhe, dei file e dell'input da terminale](#gestione-delle-stringhe-dei-file-e-dellinput-da-terminale)
@@ -48,20 +45,21 @@ DigiGreen Manufacturing base (48 h) – GP5
 
 [codice con esempi](./Esempi/funzioni_ritorno.py)
 
-<h3> E3: Esercizio 🏃 🏃<h3>
+<h3> E3.1: Esercizio 🏃 🏃<h3>
 
 L'[esercizio proposto](./Esercizi/tempo.py) prevede di gestire il ritorno della funzione `tempo()` assegnandolo a una variabile per poi poterci svolgere operazioni algebriche.
 
-### Tipi di dato semplici
-[slide](https://docs.google.com/presentation/d/13muy_9qsUs6OWGAY529W9X7fO0X0gV5bND8K4yYncto/edit#slide=id.g1ec709cba46_2_23)
+<h3> 3.3 Tipi di dato semplici </h3>
 
-[esempi stringhe](./Esempi/stringhe/esempi_stringhe.py)
+[👩‍💻 Clicca qui per scaricare le slide 👩‍💻](https://docs.google.com/presentation/d/13muy_9qsUs6OWGAY529W9X7fO0X0gV5bND8K4yYncto/edit#slide=id.g1ec709cba46_2_23)
 
-[cambiare tipo di dato](./Esercizi/input.py)
+Codice con [esempi per tipo stringa](./Esempi/stringhe/esempi_stringhe.py)
 
-### Cicli Interattivi e Iterativi
+Esempio di come [cambiare tipo di dato](./Esercizi/input.py)
 
-[slide cicli](https://docs.google.com/presentation/d/1Qnd5xqA0lQdYrUosftfUFUwdm8gplTTI9CQLw9aFTx0/edit?usp=sharing)
+<h3> 3.4 Cicli Interattivi e Iterativi </h3>
+
+[👩‍💻 Clicca qui per scaricare le slide 👩‍💻](https://docs.google.com/presentation/d/1Qnd5xqA0lQdYrUosftfUFUwdm8gplTTI9CQLw9aFTx0/edit?usp=sharing)
 
 [Esempi con i cicli](./Esempi/cicli/ciclo_intro.py)
 
@@ -69,10 +67,6 @@ L'[esercizio proposto](./Esercizi/tempo.py) prevede di gestire il ritorno della 
 
 [Cicli For](./Esercizi/cicli_for.py)
 
-#### Fuori tema 
-Esempio di un notebook jupyter [Notebook jupyter](./Notebook/random.ipynb).
-
-- Per installare la libreria: `pip install jupyter`
 
 ### Funzioni, moduli e oggetti
 
@@ -123,3 +117,10 @@ Machine e Deep
 ## Progetto Automobile
 
 Il file main con il la signature e docstring delle funzioni finora pensate è [main_automobili](./Esercizi/main_automobili.py)
+
+
+<h2> Appendix I </h2>
+
+Esempio di un notebook jupyter [Notebook jupyter](./Notebook/random.ipynb).
+
+- Per installare la libreria: `pip install jupyter`
