@@ -6,12 +6,6 @@ DigiGreen Manufacturing base (48 h) – GP5
 ## Programma del corso:
 - [Corso\_python\_base](#corso_python_base)
   - [Programma del corso:](#programma-del-corso)
-    - [Funzioni, moduli e oggetti](#funzioni-moduli-e-oggetti)
-    - [Strutture dati: list, tuple, set, dictionary](#strutture-dati-list-tuple-set-dictionary)
-    - [Gestione delle stringhe, dei file e dell'input da terminale](#gestione-delle-stringhe-dei-file-e-dellinput-da-terminale)
-    - [Installazione e uso del package manager PIP](#installazione-e-uso-del-package-manager-pip)
-    - [Python come moderno linguaggio di Scripting](#python-come-moderno-linguaggio-di-scripting)
-  - [Progetto Automobile](#progetto-automobile)
 
 <h2> 1. Introduzione e Storia </h2>
 
@@ -67,26 +61,24 @@ Esempio di come [cambiare tipo di dato](./Esercizi/input.py)
 
 [Cicli For](./Esercizi/cicli_for.py)
 
+<h2> 4 Funzioni, moduli e oggetti </h2>
 
-### Funzioni, moduli e oggetti
+[👩‍💻 Clicca qui per scaricare le slide 👩‍💻](https://docs.google.com/presentation/d/1iy03POHIZsC4vqxhKJXtCbs1qZEtm7NCVd-Ewf3QBq0/edit?usp=sharing)
 
-[slide](https://docs.google.com/presentation/d/1iy03POHIZsC4vqxhKJXtCbs1qZEtm7NCVd-Ewf3QBq0/edit?usp=sharing)
+<h3> E4.1 Cicli Interattivi e Iterativi 🏃 🏃 </h3>
 
-[esercizi](./Esercizi/funzioni.py)
+Trova qui gli esercizi [esercizi](./Esercizi/funzioni.py)
 
-[extra](./Notebook/decoratori.ipynb)
+<h3> 4.1 Strutture dati: list, tuple, set, dictionary </h3>
 
-### Strutture dati: list, tuple, set, dictionary
-
-[slide](https://docs.google.com/presentation/d/1MPA17cY1oOrEMthsCOMtBJhoCDTgpSLoaEYhoJQq47M/edit?usp=sharing)
+[👩‍💻 Clicca qui per scaricare le slide 👩‍💻](https://docs.google.com/presentation/d/1MPA17cY1oOrEMthsCOMtBJhoCDTgpSLoaEYhoJQq47M/edit?usp=sharing)
 
 [esercizi liste](./Esercizi/liste.py)
 [esercizi dictionary](./Esercizi/dizionari.py)
 
-
 [Gestire gli errori](./Notebook/gestione_errori.ipynb)
 
-### Gestione delle stringhe, dei file e dell'input da terminale
+<h3> 4.2 Gestione delle stringhe, dei file e dell'input da terminale </h3> 
 
 [Leggere e scrivere File](./Notebook/leggere_scrivere_file.ipynb)
 
@@ -96,31 +88,24 @@ Esempio di come [cambiare tipo di dato](./Esercizi/input.py)
 
 [Modulo json](./Notebook/libreria_json.ipynb)
 
-Altra libreria molto ricca di funzionalità che può leggere e manipolare dati da file è [Pandas](./Notebook/pandas_notebook.ipynb)
-
-### Installazione e uso del package manager PIP
-
-[pip e venv](https://docs.google.com/presentation/d/1wheheSXbIYSIPIQdIuD75Qu3ANomMn_PWpo8Btgr0aE/edit?usp=sharing)
-
-### Python come moderno linguaggio di Scripting
-
-[Classi e oggetti, Object Oriented](./Notebook/classi_oop.ipynb)
-
-
 [Introduzione a Pandas](./Notebook/intro_pandas.ipynb)
+
+<h2> 5 Python come moderno linguaggio di Scripting </h2>
+
+[Classi e oggetti, Object Oriented Programming](./Notebook/classi_oop.ipynb)
+
 
 Introduzione numpy, matplotlib, (vedi altri) 
 
 Machine e Deep 
 
 
-## Progetto Automobile
-
-Il file main con il la signature e docstring delle funzioni finora pensate è [main_automobili](./Esercizi/main_automobili.py)
-
-
-<h2> Appendix I </h2>
+<h2> Appendix I: Installazione Jupyter Notebook </h2>
 
 Esempio di un notebook jupyter [Notebook jupyter](./Notebook/random.ipynb).
 
 - Per installare la libreria: `pip install jupyter`
+
+<h2> Appendix II: Installazione e uso del package manager PIP </h2>
+
+[pip e venv](https://docs.google.com/presentation/d/1wheheSXbIYSIPIQdIuD75Qu3ANomMn_PWpo8Btgr0aE/edit?usp=sharing)
