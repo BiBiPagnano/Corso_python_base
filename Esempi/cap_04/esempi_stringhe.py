@@ -41,7 +41,7 @@ print(f"{saluto} {nome}, il suo saldo è di {saldo:3.5f}\n")
 print("{0} {1}, il suo saldo è di {2:0.1f}\n".format(saluto, nome, saldo))
 
 ## if statement nelle stringhe
-n = 41
+n = 42
 str_1 = f"in numero selezionato è {n}; {'''il senso della vita, dell'universo e tutto quanto''' if n == 42 else ''}"
 print(str_1)
 

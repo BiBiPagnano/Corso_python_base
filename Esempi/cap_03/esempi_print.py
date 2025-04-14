@@ -1,4 +1,4 @@
-"""La funzione print non ha ritorno ma ha effetto sul sistema.
+"""La funzione print non restituisce alcun valore ma ha effetto sul sistema.
 
 L'effetto è che quando invocata prende gli argomenti e li 'butta' nel 
 terminale.

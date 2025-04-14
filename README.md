@@ -12,12 +12,12 @@ DigiGreen Manufacturing base (48 h) – GP5
 - [esempio script per organizzare file](./Esempi/organizza_download.py)
 - [esempio script per generare qrcode](./Esempi/genera_qrcode.py) -->
 
-<h2> 2. L'interprete Python e l'IDLE </h2>
+<h2> 2. L'interprete Python 🐍 </h2>
 
 [👩‍💻 Clicca qui per scaricare le slide 👩‍💻](https://docs.google.com/presentation/d/16P8V_V3i6wOxzOaCVx47xnZej2yCXYtZ_WrOZnWsdMs/edit?usp=sharing)
 
 
-- Linguaggi interpretati VS linguaggi compilati [esempio C++](./Esempi/helloC.cpp)
+- Linguaggi interpretati VS linguaggi compilati --> [esempio C++](./Esempi/cap_02/helloC.cpp) VS [esempio Python](./Esempi/cap_02/helloPy.py)
 - Interprete python [articolo in inglese](https://learnpython.com/blog/blopython-interpreter/)
 
 <h2> 3. Sintassi: Le parole e i simboli che fanno il linguaggio </h2>
@@ -30,15 +30,15 @@ DigiGreen Manufacturing base (48 h) – GP5
 
 <h3>  3.1 Funzione print </h3>
 
-[codice con esempi](./Esempi/esempi_print.py) da lanciare, modificare e rilanciare!
+[codice con esempi](./Esempi/cap_03/esempi_print.py) da lanciare, modificare e rilanciare!
 
 <h3>  3.2 Funzioni con ritorno </h3>
 
-[codice con esempi](./Esempi/funzioni_ritorno.py)
+[codice con esempi](./Esempi/cap_03/funzioni_ritorno.py)
 
 <h3> E3.1: Esercizio 🏃 🏃<h3>
 
-L'[esercizio proposto](./Esercizi/tempo.py) prevede di gestire il ritorno della funzione `tempo()` assegnandolo a una variabile per poi poterci svolgere operazioni algebriche.
+L'[esercizio proposto](./Esercizi/3_1/tempo.py) prevede di gestire il ritorno della funzione `tempo()` assegnandolo a una variabile per poi poterci svolgere operazioni algebriche.
 
 <h3> 3.3 Tipi di dato semplici </h3>
 
