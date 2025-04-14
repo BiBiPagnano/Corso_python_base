@@ -147,18 +147,12 @@ Altra libreria molto ricca di funzionalità che può leggere e manipolare dati d
 
 [Classi e oggetti, Object Oriented](./Notebook/classi_oop.ipynb)
 
-[Database sqlite](./Notebook/db_sqlite3.ipynb)
 
 [Introduzione a Pandas](./Notebook/intro_pandas.ipynb)
 
-[Utilizzare le API](./Notebook/usare_API.ipynb)
+Introduzione numpy, matplotlib, (vedi altri) 
 
-[Creare API](./Notebook/creare_API.ipynb)
-
-[esempio FastAPI](./Esempi/fastapi_main.py) simile a quello fatto a lezione. Da finire e integrare
-
-[interfaccie grafiche](./Notebook/gui.ipynb)
-
+Machine e Deep 
 
 
 ## Progetto Automobile
