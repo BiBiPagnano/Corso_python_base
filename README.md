@@ -36,9 +36,13 @@ DigiGreen Manufacturing base (48 h) – GP5
 
 [codice con esempi](./Esempi/cap_03/funzioni_ritorno.py)
 
+---
+
 <h3> E3.1: Esercizio 🏃 🏃<h3>
 
 L'[esercizio proposto](./Esercizi/3_1/tempo.py) prevede di gestire il ritorno della funzione `tempo()` assegnandolo a una variabile per poi poterci svolgere operazioni algebriche.
+
+---
 
 <h3> 3.3 Tipi di dato semplici </h3>
 
@@ -46,7 +50,13 @@ L'[esercizio proposto](./Esercizi/3_1/tempo.py) prevede di gestire il ritorno de
 
 Codice con [esempi per tipo stringa](./Esempi/stringhe/esempi_stringhe.py)
 
-Esempio di come [cambiare tipo di dato](./Esercizi/input.py)
+---
+
+<h3> E3.2: Esercizio 🏃 🏃<h3>
+
+Esempio di come [cambiare tipo di dato](./Esercizi/3_2/input.py)
+
+---
 
 <h3> 3.4 Cicli Interattivi e Iterativi </h3>
 
@@ -54,13 +64,21 @@ Esempio di come [cambiare tipo di dato](./Esercizi/input.py)
 
 [Esempi con i cicli](./Esempi/cicli/ciclo_intro.py)
 
+---
+<h3> E3.3: Esercizio 🏃 🏃<h3>
+
 [Cicli While](./Esercizi/cicli_while.py)
+
+
+<h3> E3.4: Esercizio 🏃 🏃<h3>
 
 [Cicli For](./Esercizi/cicli_for.py)
 
-<h3> E3.2 Cicli Interattivi e Iterativi 🏃 🏃 </h3>
+<h3> E3.5 Esercizio 🏃 🏃 </h3>
 
 Trova qui gli [esercizi](./Esercizi/funzioni.py)
+
+---
 
 <h2> 4 Funzioni, moduli e oggetti </h2>
 
