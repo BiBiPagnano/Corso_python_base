@@ -1,7 +1,7 @@
 # Corso_python_base
 DigiGreen Manufacturing base (48 h) – GP5
 
-- tenuto da bibi <a href="mailto:grigolopi@gmail.com">e-mail grigolopi@gmail.com</a>
+- tenuto da bibi <a href="mailto:m.pagnano@unicampus.it">e-mail m.pagnano@unicampus.it</a>
 
 ## Programma del corso:
 - [Corso\_python\_base](#corso_python_base)
