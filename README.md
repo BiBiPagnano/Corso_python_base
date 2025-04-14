@@ -3,9 +3,6 @@ DigiGreen Manufacturing base (48 h) – GP5
 
 - tenuto da bibi <a href="mailto:m.pagnano@unicampus.it">e-mail m.pagnano@unicampus.it</a>
 
-## Programma del corso:
-- [Corso\_python\_base](#corso_python_base)
-  - [Programma del corso:](#programma-del-corso)
 
 <h2> 1. Introduzione e Storia </h2>
 
@@ -61,13 +58,13 @@ Esempio di come [cambiare tipo di dato](./Esercizi/input.py)
 
 [Cicli For](./Esercizi/cicli_for.py)
 
+<h3> E3.2 Cicli Interattivi e Iterativi 🏃 🏃 </h3>
+
+Trova qui gli [esercizi](./Esercizi/funzioni.py)
+
 <h2> 4 Funzioni, moduli e oggetti </h2>
 
 [👩‍💻 Clicca qui per scaricare le slide 👩‍💻](https://docs.google.com/presentation/d/1iy03POHIZsC4vqxhKJXtCbs1qZEtm7NCVd-Ewf3QBq0/edit?usp=sharing)
-
-<h3> E4.1 Cicli Interattivi e Iterativi 🏃 🏃 </h3>
-
-Trova qui gli esercizi [esercizi](./Esercizi/funzioni.py)
 
 <h3> 4.1 Strutture dati: list, tuple, set, dictionary </h3>
 
@@ -92,10 +89,15 @@ Trova qui gli esercizi [esercizi](./Esercizi/funzioni.py)
 
 <h2> 5 Python come moderno linguaggio di Scripting </h2>
 
+<h3> 5.1 Object Oriented Programming </h3> 
+
 [Classi e oggetti, Object Oriented Programming](./Notebook/classi_oop.ipynb)
 
+<h3> 5.2 Manipolare array, matrici e grafici </h3> 
 
 Introduzione numpy, matplotlib, (vedi altri) 
+
+<h2> 6 Basi di Machine Learning </h2>
 
 Machine e Deep 
 
